@@ -1,6 +1,10 @@
 # tatabuq
 
 A new Flutter project.
+## About Program
+tatabuq : Its means conformity.
+The (Beginner) application displays two images and you have to click on them in order for it to go to the next two images randomly.
+When you get two identical pictures, your points increase.
 
 ## Getting Started
 
