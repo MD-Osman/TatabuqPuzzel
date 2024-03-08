@@ -1,4 +1,4 @@
-# tatabuq
+# Tatabuq Puzzel
 
 A new Flutter project.
 ## About Program
